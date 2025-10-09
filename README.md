@@ -1,10 +1,10 @@
-# 🛍️ ePoliMart
+# ePoliMart
 
 **Sistem E-Marketplace Internal untuk Politeknik Negeri Lhokseumawe**
 
 ---
 
-### 👥 Tim
+### Tim
 
 * **Nasywa Ariqa Ridha** (Ketua)
 * **Adha Gusti Harmadhan** (Anggota)
@@ -13,42 +13,42 @@
 
 ---
 
-## 1. 📖 Latar Belakang
+## 1. Latar Belakang
 
 Politeknik Negeri Lhokseumawe (PNL) merupakan salah satu perguruan tinggi vokasi negeri di Aceh yang berfokus pada pendidikan terapan di berbagai bidang seperti teknik, bisnis, dan teknologi.
 Dengan ribuan mahasiswa aktif serta munculnya berbagai UMKM mahasiswa yang bergerak dalam wirausaha, kebutuhan akan **wadah digital jual-beli internal kampus** semakin meningkat.
 
 Selama ini, transaksi di lingkungan kampus masih dilakukan secara manual atau melalui media sosial, yang menimbulkan beberapa kendala:
 
-* 🔸 **Promosi terbatas:** produk mahasiswa sulit dikenal oleh seluruh civitas kampus.
-* 🔸 **Transaksi tidak efisien:** konfirmasi pesanan dan pembayaran dilakukan manual.
-* 🔸 **Kesulitan pengelolaan stok dan laporan penjualan.**
+* **Promosi terbatas:** produk mahasiswa sulit dikenal oleh seluruh civitas kampus.
+* **Transaksi tidak efisien:** konfirmasi pesanan dan pembayaran dilakukan manual.
+* **Kesulitan pengelolaan stok dan laporan penjualan.**
 
-💡 **ePoliMart** hadir sebagai platform e-commerce internal kampus yang memfasilitasi jual-beli digital antar mahasiswa Politeknik Negeri Lhokseumawe.
+**ePoliMart** hadir sebagai platform e-commerce internal kampus yang memfasilitasi jual-beli digital antar mahasiswa Politeknik Negeri Lhokseumawe.
 Sistem ini menyediakan fitur pembelian langsung, pembayaran daring, dan laporan penjualan otomatis untuk menciptakan ekosistem ekonomi digital yang **aman, efisien, dan terintegrasi** di lingkungan kampus.
 
 ---
 
-## 2. 📦 Ruang Lingkup Sistem
+## 2. Ruang Lingkup Sistem
 
-### 🧑‍💼 Admin Kampus (Pengelola Utama)
+### Admin Kampus (Pengelola Utama)
 
 * Mengelola data penjual, produk, transaksi, dan laporan.
 * Memverifikasi pendaftaran penjual baru.
 * Mengawasi aktivitas marketplace dan menjaga keamanan sistem.
 
-### 🛒 Penjual (Mahasiswa / UMKM Kampus)
+### Penjual (Mahasiswa / UMKM Kampus)
 
 * Mengelola toko online (produk, stok, pesanan, laporan).
 * Menerima notifikasi pesanan baru.
 * Mengatur status pesanan (diproses, siap diambil, selesai).
 
-### 👨‍🎓 Pembeli (Mahasiswa PNL)
+### Pembeli (Mahasiswa PNL)
 
 * Melihat katalog produk, menambah produk ke keranjang, checkout, dan pembayaran.
 * Melihat status pesanan dan riwayat pembelian.
 
-📌 **Catatan:**
+**Catatan:**
 
 * Setiap penjual memiliki toko dan stok tersendiri.
 * Transaksi dilakukan antar mahasiswa di area kampus.
@@ -56,7 +56,7 @@ Sistem ini menyediakan fitur pembelian langsung, pembayaran daring, dan laporan 
 
 ---
 
-## 3. ⚙️ Fitur Utama
+## 3. Fitur Utama
 
 ### 3.1 Manajemen Produk
 
@@ -108,19 +108,19 @@ Sistem ini menyediakan fitur pembelian langsung, pembayaran daring, dan laporan 
 
 ---
 
-## 4. 🧩 Arsitektur Teknis
+## 4. Arsitektur Teknis
 
-### 🔙 Backend Stack
+### Backend Stack
 
 * **Laravel 12** (PHP Framework)
 * **MySQL** (Database)
 
-### 🎨 Frontend Stack
+### Frontend Stack
 
 * **Blade Templating Engine**
 * **Tailwind CSS**
 
-### 📦 Package Tambahan
+### Package Tambahan
 
 * [Spatie Laravel Permission](https://spatie.be/docs/laravel-permission) – Manajemen Role & Permission
 * [Laravel Excel](https://laravel-excel.com/) – Ekspor laporan transaksi dan stok
@@ -129,7 +129,7 @@ Sistem ini menyediakan fitur pembelian langsung, pembayaran daring, dan laporan 
 
 ---
 
-## 5. 🎯 Manfaat
+## 5. Manfaat
 
 ### Untuk Kampus / Admin
 
@@ -151,7 +151,7 @@ Sistem ini menyediakan fitur pembelian langsung, pembayaran daring, dan laporan 
 
 ---
 
-## 6. 🧾 Ringkasan
+## 6. Ringkasan
 
 **ePoliMart** adalah sistem e-commerce internal kampus yang dirancang khusus untuk mahasiswa **Politeknik Negeri Lhokseumawe (PNL)**.
 Sistem ini menjadi sarana digital bagi mahasiswa untuk berwirausaha di lingkungan kampus dengan fitur pengelolaan toko, transaksi, pembayaran, dan laporan yang **terintegrasi**.
