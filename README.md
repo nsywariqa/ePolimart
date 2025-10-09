@@ -122,9 +122,9 @@ Sistem ini menyediakan fitur pembelian langsung, pembayaran daring, dan laporan 
 
 ### Package Tambahan
 
-* [Spatie Laravel Permission](https://spatie.be/docs/laravel-permission) – Manajemen Role & Permission
-* [Laravel Excel](https://laravel-excel.com/) – Ekspor laporan transaksi dan stok
-* [Chart.js](https://www.chartjs.org/) – Visualisasi data laporan
+* [Spatie Laravel Permission] Manajemen Role & Permission
+* [Laravel Excel] Ekspor laporan transaksi dan stok
+* [Chart.js] Visualisasi data laporan
 * **Midtrans / Xendit / Manual Payment Module** – Modul pembayaran digital
 
 ---
