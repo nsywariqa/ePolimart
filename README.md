@@ -27,7 +27,6 @@ Selama ini, transaksi di lingkungan kampus masih dilakukan secara manual atau me
 **ePoliMart** hadir sebagai platform e-commerce internal kampus yang memfasilitasi jual-beli digital antar mahasiswa Politeknik Negeri Lhokseumawe.
 Sistem ini menyediakan fitur pembelian langsung, pembayaran daring, dan laporan penjualan otomatis untuk menciptakan ekosistem ekonomi digital yang **aman, efisien, dan terintegrasi** di lingkungan kampus.
 
----
 
 ## 2. Ruang Lingkup Sistem
 
@@ -54,7 +53,6 @@ Sistem ini menyediakan fitur pembelian langsung, pembayaran daring, dan laporan 
 * Transaksi dilakukan antar mahasiswa di area kampus.
 * Metode pembayaran: transfer bank, **QRIS**, atau **COD** sesuai pengaturan admin.
 
----
 
 ## 3. Fitur Utama
 
@@ -106,7 +104,6 @@ Sistem ini menyediakan fitur pembelian langsung, pembayaran daring, dan laporan 
 * **Pembeli:** status pesanan (diproses, dikirim, selesai).
 * **Admin:** pendaftaran penjual baru, transaksi mencurigakan.
 
----
 
 ## 4. Arsitektur Teknis
 
@@ -127,7 +124,6 @@ Sistem ini menyediakan fitur pembelian langsung, pembayaran daring, dan laporan 
 * [Chart.js] Visualisasi data laporan
 * **Midtrans / Xendit / Manual Payment Module** – Modul pembayaran digital
 
----
 
 ## 5. Manfaat
 
@@ -149,7 +145,6 @@ Sistem ini menyediakan fitur pembelian langsung, pembayaran daring, dan laporan 
 * Transaksi cepat dengan berbagai metode pembayaran.
 * Memantau status pesanan secara real-time.
 
----
 
 ## 6. Ringkasan
 
@@ -157,6 +152,4 @@ Sistem ini menyediakan fitur pembelian langsung, pembayaran daring, dan laporan 
 Sistem ini menjadi sarana digital bagi mahasiswa untuk berwirausaha di lingkungan kampus dengan fitur pengelolaan toko, transaksi, pembayaran, dan laporan yang **terintegrasi**.
 
 Dengan adanya ePoliMart, PNL dapat membangun budaya **ekonomi kreatif berbasis digital** yang **efisien, aman, dan mendukung pengembangan kewirausahaan mahasiswa** di era modern.
-
----
 
